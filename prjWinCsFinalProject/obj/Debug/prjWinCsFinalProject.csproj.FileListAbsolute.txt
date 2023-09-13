@@ -1,0 +1,16 @@
+C:\Users\kavit\source\repos\prjWinCsFinalProject\prjWinCsFinalProject\bin\Debug\prjWinCsFinalProject.exe.config
+C:\Users\kavit\source\repos\prjWinCsFinalProject\prjWinCsFinalProject\bin\Debug\prjWinCsFinalProject.exe
+C:\Users\kavit\source\repos\prjWinCsFinalProject\prjWinCsFinalProject\bin\Debug\prjWinCsFinalProject.pdb
+C:\Users\kavit\source\repos\prjWinCsFinalProject\prjWinCsFinalProject\obj\Debug\prjWinCsFinalProject.csproj.AssemblyReference.cache
+C:\Users\kavit\source\repos\prjWinCsFinalProject\prjWinCsFinalProject\obj\Debug\prjWinCsFinalProject.csproj.SuggestedBindingRedirects.cache
+C:\Users\kavit\source\repos\prjWinCsFinalProject\prjWinCsFinalProject\obj\Debug\prjWinCsFinalProject.frmAbout.resources
+C:\Users\kavit\source\repos\prjWinCsFinalProject\prjWinCsFinalProject\obj\Debug\prjWinCsFinalProject.FrmScientificCalculator.resources
+C:\Users\kavit\source\repos\prjWinCsFinalProject\prjWinCsFinalProject\obj\Debug\prjWinCsFinalProject.frmStandardCalculator.resources
+C:\Users\kavit\source\repos\prjWinCsFinalProject\prjWinCsFinalProject\obj\Debug\prjWinCsFinalProject.Properties.Resources.resources
+C:\Users\kavit\source\repos\prjWinCsFinalProject\prjWinCsFinalProject\obj\Debug\prjWinCsFinalProject.csproj.GenerateResource.cache
+C:\Users\kavit\source\repos\prjWinCsFinalProject\prjWinCsFinalProject\obj\Debug\prjWinCsFinalProject.csproj.CoreCompileInputs.cache
+C:\Users\kavit\source\repos\prjWinCsFinalProject\prjWinCsFinalProject\obj\Debug\prjWinCsFinalProject.exe
+C:\Users\kavit\source\repos\prjWinCsFinalProject\prjWinCsFinalProject\obj\Debug\prjWinCsFinalProject.pdb
+C:\Users\kavit\source\repos\prjWinCsFinalProject\prjWinCsFinalProject\obj\Debug\prjWinCsFinalProject.frmMain.resources
+C:\Users\kavit\source\repos\prjWinCsFinalProject\prjWinCsFinalProject\obj\Debug\prjWinCsFinalProject.frmUserManual.resources
+C:\Users\kavit\source\repos\prjWinCsFinalProject\prjWinCsFinalProject\obj\Debug\prjWinCsFinalProject.frmChange.resources
